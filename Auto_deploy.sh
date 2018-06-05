@@ -7,3 +7,4 @@ cd /tmp/
 mkdir test
 cd test
 touch hi.txt
+touch bye.txt
